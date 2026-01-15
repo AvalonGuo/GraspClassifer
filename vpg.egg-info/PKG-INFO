@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: vpg
+Version: 0.1.0
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: mujoco
+Requires-Dist: gymnasium
+Requires-Dist: dm-control
+Requires-Dist: opencv-python
+Requires-Dist: torch
