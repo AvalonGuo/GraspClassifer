@@ -1,7 +1,7 @@
 # GraspClassifer
 ## Description
 **Scence**
-![overview](.\vpg\system.png)
+![overview](./vpg/system.png)
 
  **Two algorithmns:**
 - **DQN**: A reinforcement learning (RL) approach that trains a grasp affordance network to predict the quality of planar grasps from visual inputs. The agent learns an optimal grasping policy by maximizing cumulative reward through interaction with the environment.
@@ -13,7 +13,7 @@
 - **Metric:** Task conditioned binary classification.
 - **Training Logger**
 
-![Logger](.\vpg\train.png)
+![Logger](./vpg/train.png)
 
 | Train | Validate | Simulation deploy |
 |----------|----------|----------|
